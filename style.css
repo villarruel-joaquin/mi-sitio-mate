@@ -1,0 +1,27 @@
+body {
+    background-color: #f2f2f2;
+    font-family: Arial, sans-serif;
+}
+
+h1 {
+    color: darkgreen;
+    font-size: 30px;
+}
+
+h2 {
+    color: green;
+    font-size: 24px;
+}
+
+p {
+    color: black;
+    font-size: 18px;
+}
+
+a {
+    color: blue;
+    font-size: 16px;
+}
+nav a {
+    display: block;
+}
